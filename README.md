@@ -1,6 +1,6 @@
 # Data-Visualization-on-Covid-19-Cases
 
-Dataset: [Covid Cases and Deaths WorldWide | KaggleLinks to an external site.]
+Dataset:  Covid Cases and Deaths WorldWide | KaggleLinks to an external site.
 
  
 
