@@ -1,7 +1,6 @@
 # Data-Visualization-on-Covid-19-Cases
 
-Dataset:  Covid Cases and Deaths WorldWide | KaggleLinks to an external site.
-
+Dataset: https://www.kaggle.com/datasets/themrityunjaypathak/covid-cases-and-deaths-worldwide
  
 
 ## 1. Summary of dataset
