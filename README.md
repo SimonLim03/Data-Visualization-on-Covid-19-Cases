@@ -1,6 +1,6 @@
 # Data-Visualization-on-Covid-19-Cases
 
-Dataset: [Covid Cases and Deaths WorldWide | KaggleLinks to an external site.](https://www.kaggle.com/datasets/mylesoneill/world-university-rankings?resource=download)
+Dataset: [Covid Cases and Deaths WorldWide | KaggleLinks to an external site.]
 
  
 
